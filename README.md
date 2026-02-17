@@ -1,2 +1,2 @@
 # sqlite3-designer
-## just try it out baby
+## just try it out lol
